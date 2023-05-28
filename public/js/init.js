@@ -5,6 +5,7 @@ tinymce.init({
   selector: 'textarea#fontapp',
   skin: 'borderless',
   icons: 'small',
+  tinydrive_skin: 'oxide-dark',
   content_style: "body { font-family: 'iA Writer Serif';font-size: 18pt; }",
   font_css: ['/css/iafonts.css', '/css/jffonts.css'],
   font_family_formats: 'iA Writer Serif=ia writer serif;iA Writer Sans=ia writer sans;iA Writer Mono=ia writer mono;iA Writer Duo=ia writer duo;iA Writer Quattro=ia writer quattro;JF Regular=jf regular;JF Garamond=jf garamond;JF Infant=jf infant;JF Smallcase=jf smallcase;JF Unicase=jf unicase;JF Upright=jf upright;Elisabeth Serif=elisabeth serif;Elisabeth Serif Swash=elisabeth serif swash',
