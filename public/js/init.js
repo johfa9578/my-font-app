@@ -5,7 +5,7 @@ tinymce.init({
   tinydrive_google_drive_client_id: '987625185671-scqadt5bk2ptlbvsahfqt2luo5gpfom5.apps.googleusercontent.com',
   branding: false,
   selector: 'textarea#fontapp',
-  skin: 'dazzle',
+  skin: 'borderless',
   icons: 'small',
   tinydrive_skin: 'oxide',
   content_style: "body { font-family: 'iA Writer Serif';font-size: 18pt; }",
