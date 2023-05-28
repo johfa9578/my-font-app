@@ -1,0 +1,207 @@
+@font-face {
+  font-family: 'iA Writer Serif';
+  font-weight: 400;
+  font-style: normal;
+  src: url('/fonts/iAWriterSerif/iAWriterSerif-Regular.woff2') format('woff2'),
+    url('/fonts/iAWriterSerif/iAWriterSerif-Regular.woff') format('woff');
+}
+
+@font-face {
+  font-family: 'iA Writer Serif';
+  font-weight: 400;
+  font-style: italic;
+  src: url('/fonts/iAWriterSerif/iAWriterSerif-Italic.woff2') format('woff2'),
+    url('/fonts/iAWriterSerif/iAWriterSerif-Italic.woff') format('woff');
+}
+
+@font-face {
+  font-family: 'iA Writer Serif';
+  font-weight: 700;
+  font-style: normal;
+  src: url('/fonts/iAWriterSerif/iAWriterSerif-Bold.woff2') format('woff2'),
+    url('/fonts/iAWriterSerif/iAWriterSerif-Bold.woff') format('woff');
+}
+
+@font-face {
+  font-family: 'iA Writer Serif';
+  font-weight: 700;
+  font-style: italic;
+  src: url('/fonts/iAWriterSerif/iAWriterSerif-BoldItalic.woff2') format('woff2'),
+    url('/fonts/iAWriterSerif/iAWriterSerif-BoldItalic.woff') format('woff');
+}
+
+@font-face {
+  font-family: 'iA Writer Sans';
+  font-weight: 400;
+  font-style: normal;
+  src: url('/fonts/iAWriterSans/iAWriterSans-Regular.woff2') format('woff2'),
+    url('/fonts/iAWriterSans/iAWriterSans-Regular.woff') format('woff');
+}
+
+@font-face {
+  font-family: 'iA Writer Sans';
+  font-weight: 400;
+  font-style: italic;
+  src: url('/fonts/iAWriterSans/iAWriterSans-Italic.woff2') format('woff2'),
+    url('/fonts/iAWriterSans/iAWriterSans-Italic.woff') format('woff');
+}
+
+@font-face {
+  font-family: 'iA Writer Sans';
+  font-weight: 700;
+  font-style: normal;
+  src: url('/fonts/iAWriterSans/iAWriterSans-Bold.woff2') format('woff2'),
+    url('/fonts/iAWriterSans/iAWriterSans-Bold.woff') format('woff');
+}
+
+@font-face {
+  font-family: 'iA Writer Sans';
+  font-weight: 700;
+  font-style: italic;
+  src: url('/fonts/iAWriterSans/iAWriterSans-BoldItalic.woff2') format('woff2'),
+    url('/fonts/iAWriterSans/iAWriterSans-BoldItalic.woff') format('woff');
+}
+
+@font-face {
+  font-family: 'iA Writer Duo';
+  font-weight: 400;
+  font-style: normal;
+  src: url('/fonts/iAWriterDuo/iAWriterDuo-Regular.woff2') format('woff2'),
+    url('/fonts/iAWriterDuo/iAWriterDuo-Regular.woff') format('woff');
+}
+
+@font-face {
+  font-family: 'iA Writer Duo';
+  font-weight: 400;
+  font-style: italic;
+  src: url('/fonts/iAWriterDuo/iAWriterDuo-Italic.woff2') format('woff2'),
+    url('/fonts/iAWriterDuo/iAWriterDuo-Italic.woff') format('woff');
+}
+
+@font-face {
+  font-family: 'iA Writer Duo';
+  font-weight: 700;
+  font-style: normal;
+  src: url('/fonts/iAWriterDuo/iAWriterDuo-Bold.woff2') format('woff2'),
+    url('/fonts/iAWriterDuo/iAWriterDuo-Bold.woff') format('woff');
+}
+
+@font-face {
+  font-family: 'iA Writer Duo';
+  font-weight: 700;
+  font-style: italic;
+  src: url('/fonts/iAWriterDuo/iAWriterDuo-BoldItalic.woff2') format('woff2'),
+    url('/fonts/iAWriterDuo/iAWriterDuo-BoldItalic.woff') format('woff');
+}
+
+@font-face {
+  font-family: 'iA Writer Quattro';
+  font-weight: 400;
+  font-style: normal;
+  src: url('/fonts/iAWriterQuattro/iAWriterQuattro-Regular.woff2') format('woff2'),
+    url('/fonts/iAWriterQuattro/iAWriterQuattro-Regular.woff') format('woff');
+}
+
+@font-face {
+  font-family: 'iA Writer Quattro';
+  font-weight: 400;
+  font-style: italic;
+  src: url('/fonts/iAWriterQuattro/iAWriterQuattro-Italic.woff2') format('woff2'),
+    url('/fonts/iAWriterQuattro/iAWriterQuattro-Italic.woff') format('woff');
+}
+
+@font-face {
+  font-family: 'iA Writer Quattro';
+  font-weight: 700;
+  font-style: normal;
+  src: url('/fonts/iAWriterQuattro/iAWriterQuattro-Bold.woff2') format('woff2'),
+    url('/fonts/iAWriterQuattro/iAWriterQuattro-Bold.woff') format('woff');
+}
+
+@font-face {
+  font-family: 'iA Writer Quattro';
+  font-weight: 700;
+  font-style: italic;
+  src: url('/fonts/iAWriterQuattro/iAWriterQuattro-BoldItalic.woff2') format('woff2'),
+    url('/fonts/iAWriterQuattro/iAWriterQuattro-BoldItalic.woff') format('woff');
+}
+
+@font-face {
+  font-family: 'iA Writer Mono';
+  font-weight: 400;
+  font-style: normal;
+  src: url('/fonts/iAWriterMono/iAWriterMono-Regular.woff2') format('woff2'),
+    url('/fonts/iAWriterMono/iAWriterMono-Regular.woff') format('woff');
+}
+
+@font-face {
+  font-family: 'iA Writer Mono';
+  font-weight: 400;
+  font-style: italic;
+  src: url('/fonts/iAWriterMono/iAWriterMono-Italic.woff2') format('woff2'),
+    url('/fonts/iAWriterMono/iAWriterMono-Italic.woff') format('woff');
+}
+
+@font-face {
+  font-family: 'iA Writer Mono';
+  font-weight: 700;
+  font-style: normal;
+  src: url('/fonts/iAWriterMono/iAWriterMono-Bold.woff2') format('woff2'),
+    url('/fonts/iAWriterMono/iAWriterMono-Bold.woff') format('woff');
+}
+
+@font-face {
+  font-family: 'iA Writer Mono';
+  font-weight: 700;
+  font-style: italic;
+  src: url('/fonts/iAWriterMono/iAWriterMono-BoldItalic.woff2') format('woff2'),
+    url('/fonts/iAWriterMono/iAWriterMono-BoldItalic.woff') format('woff');
+}
+
+@font-face {
+  font-family: 'Elisabeth Serif';
+  font-weight: 400;
+  font-style: normal;
+  src: url('/fonts/ElisabethSerif/ElisabethSerif-Regular.woff2') format('woff2'),
+    url('/fonts/ElisabethSerif/ElisabethSerif-Regular.woff') format('woff');
+}
+
+@font-face {
+  font-family: 'Elisabeth Serif';
+  font-weight: 400;
+  font-style: italic;
+  src: url('/fonts/ElisabethSerif/ElisabethSerif-Italic.woff2') format('woff2'),
+    url('/fonts/ElisabethSerif/ElisabethSerif-Italic.woff') format('woff');
+}
+
+@font-face {
+  font-family: 'Elisabeth Serif';
+  font-weight: 700;
+  font-style: normal;
+  src: url('/fonts/ElisabethSerif/ElisabethSerif-Bold.woff2') format('woff2'),
+    url('/fonts/ElisabethSerif/ElisabethSerif-Bold.woff') format('woff');
+}
+
+@font-face {
+  font-family: 'Elisabeth Serif';
+  font-weight: 700;
+  font-style: italic;
+  src: url('/fonts/ElisabethSerif/ElisabethSerif-BoldItalic.woff2') format('woff2'),
+    url('/fonts/ElisabethSerif/ElisabethSerif-BoldItalic.woff') format('woff');
+}
+
+@font-face {
+  font-family: 'Elisabeth Serif Swash';
+  font-weight: 400;
+  font-style: normal;
+  src: url('/fonts/ElisabethSerifSwash/ElisabethSerifSwash-Regular.woff2') format('woff2'),
+    url('/fonts/ElisabethSerifSwash/ElisabethSerifSwash-Regular.woff') format('woff');
+}
+
+@font-face {
+  font-family: 'Elisabeth Serif Swash';
+  font-weight: 700;
+  font-style: normal;
+  src: url('/fonts/ElisabethSerifSwash/ElisabethSerifSwash-Bold.woff2') format('woff2'),
+    url('/fonts/ElisabethSerifSwash/ElisabethSerifSwash-Bold.woff') format('woff');
+}

@@ -1,0 +1,144 @@
+@font-face {
+  font-family: 'JF Regular';
+  font-weight: 400;
+  font-style: normal;
+  src: url('/fonts/JFRegular/JFRegular-Regular.woff2') format('woff2'),
+    url('/fonts/JFRegular/JFRegular-Regular.woff') format('woff');
+}
+
+@font-face {
+  font-family: 'JF Regular';
+  font-weight: 400;
+  font-style: italic;
+  src: url('/fonts/JFRegular/JFRegular-Italic.woff2') format('woff2'),
+    url('/fonts/JFRegular/JFRegular-Italic.woff') format('woff');
+}
+
+@font-face {
+  font-family: 'JF Regular';
+  font-weight: 700;
+  font-style: normal;
+  src: url('/fonts/JFRegular/JFRegular-Bold.woff2') format('woff2'),
+    url('/fonts/JFRegular/JFRegular-Bold.woff') format('woff');
+}
+
+@font-face {
+  font-family: 'JF Regular';
+  font-weight: 700;
+  font-style: italic;
+  src: url('/fonts/JFRegular/JFRegular-BoldItalic.woff2') format('woff2'),
+    url('/fonts/JFRegular/JFRegular-BoldItalic.woff') format('woff');
+}
+
+@font-face {
+  font-family: 'JF Infant';
+  font-weight: 400;
+  font-style: normal;
+  src: url('/fonts/JFInfant/JFInfant-Regular.woff2') format('woff2'),
+    url('/fonts/JFInfant/JFInfant-Regular.woff') format('woff');
+}
+
+@font-face {
+  font-family: 'JF Infant';
+  font-weight: 400;
+  font-style: italic;
+  src: url('/fonts/JFInfant/JFInfant-Italic.woff2') format('woff2'),
+    url('/fonts/JFInfant/JFInfant-Italic.woff') format('woff');
+}
+
+@font-face {
+  font-family: 'JF Infant';
+  font-weight: 700;
+  font-style: normal;
+  src: url('/fonts/JFInfant/JFInfant-Bold.woff2') format('woff2'),
+    url('/fonts/JFInfant/JFInfant-Bold.woff') format('woff');
+}
+
+@font-face {
+  font-family: 'JF Infant';
+  font-weight: 700;
+  font-style: italic;
+  src: url('/fonts/JFInfant/JFInfant-BoldItalic.woff2') format('woff2'),
+    url('/fonts/JFInfant/JFInfant-BoldItalic.woff') format('woff');
+}
+
+@font-face {
+  font-family: 'JF Garamond';
+  font-weight: 400;
+  font-style: normal;
+  src: url('/fonts/JFGaramond/JFGaramond-Regular.woff2') format('woff2'),
+    url('/fonts/JFGaramond/JFGaramond-Regular.woff') format('woff');
+}
+
+@font-face {
+  font-family: 'JF Garamond';
+  font-weight: 400;
+  font-style: italic;
+  src: url('/fonts/JFGaramond/JFGaramond-Italic.woff2') format('woff2'),
+    url('/fonts/JFGaramond/JFGaramond-Italic.woff') format('woff');
+}
+
+@font-face {
+  font-family: 'JF Garamond';
+  font-weight: 700;
+  font-style: normal;
+  src: url('/fonts/JFGaramond/JFGaramond-Bold.woff2') format('woff2'),
+    url('/fonts/JFGaramond/JFGaramond-Bold.woff') format('woff');
+}
+
+@font-face {
+  font-family: 'JF Garamond';
+  font-weight: 700;
+  font-style: italic;
+  src: url('/fonts/JFGaramond/JFGaramond-BoldItalic.woff2') format('woff2'),
+    url('/fonts/JFGaramond/JFGaramond-BoldItalic.woff') format('woff');
+}
+
+
+@font-face {
+  font-family: 'JF Unicase';
+  font-weight: 400;
+  font-style: normal;
+  src: url('/fonts/JFUnicase/JFUnicase-Regular.woff2') format('woff2'),
+    url('/fonts/JFUnicase/JFUnicase-Regular.woff') format('woff');
+}
+
+@font-face {
+  font-family: 'JF Unicase';
+  font-weight: 700;
+  font-style: normal;
+  src: url('/fonts/JFUnicase/JFUnicase-Bold.woff2') format('woff2'),
+    url('/fonts/JFUnicase/JFUnicase-Bold.woff') format('woff');
+}
+
+@font-face {
+  font-family: 'JF Upright';
+  font-weight: 400;
+  font-style: normal;
+  src: url('/fonts/JFUpright/JFUpright-Regular.woff2') format('woff2'),
+    url('/fonts/JFUpright/JFUpright-Regular.woff') format('woff');
+}
+
+@font-face {
+  font-family: 'JF Upright';
+  font-weight: 700;
+  font-style: normal;
+  src: url('/fonts/JFUpright/JFUpright-Bold.woff2') format('woff2'),
+    url('/fonts/JFUpright/JFUpright-Bold.woff') format('woff');
+}
+
+@font-face {
+  font-family: 'JF Smallcase';
+  font-weight: 400;
+  font-style: normal;
+  src: url('/fonts/JFSmallcase/JFSmallcase-Regular.woff2') format('woff2'),
+    url('/fonts/JFSmallcase/JFSmallcase-Regular.woff') format('woff');
+}
+
+@font-face {
+  font-family: 'JF Smallcase';
+  font-weight: 700;
+  font-style: normal;
+  src: url('/fonts/JFSmallcase/JFSmallcase-Bold.woff2') format('woff2'),
+    url('/fonts/JFSmallcase/JFSmallcase-Bold.woff') format('woff');
+}
