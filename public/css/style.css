@@ -1,0 +1,50 @@
+.inner-container {
+  max-width: 65%;
+  margin: 0 auto;
+  border: 9px rgb(204, 204, 204) double;
+  padding: 1rem;
+}
+
+.form-group {
+  margin-bottom: 1rem;
+}
+
+.login-btn {
+  margin-top: 0.5rem;
+}
+
+.logout-btn {
+  text-align: right !important;
+}
+
+@font-face {
+  font-family: 'iA Writer Serif';
+  font-weight: 400;
+  font-style: normal;
+  src: url('/fonts/iAWriterSerif-Regular.woff2') format('woff2'),
+    url('/fonts/iAWriterSerif-Regular.woff') format('woff');
+}
+
+@font-face {
+  font-family: 'iA Writer Serif';
+  font-weight: 400;
+  font-style: italic;
+  src: url('/fonts/iAWriterSerif-Italic.woff2') format('woff2'),
+    url('/fonts/iAWriterSerif-Italic.woff') format('woff');
+}
+
+@font-face {
+  font-family: 'iA Writer Serif';
+  font-weight: 700;
+  font-style: normal;
+  src: url('/fonts/iAWriterSerif-Bold.woff2') format('woff2'),
+    url('/fonts/iAWriterSerif-Bold.woff') format('woff');
+}
+
+@font-face {
+  font-family: 'iA Writer Serif';
+  font-weight: 700;
+  font-style: italic;
+  src: url('/fonts/iAWriterSerif-BoldItalic.woff2') format('woff2'),
+    url('/fonts/iAWriterSerif-BoldItalic.woff') format('woff');
+}

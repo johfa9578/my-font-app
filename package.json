@@ -1,5 +1,5 @@
 {
-  "name": "tinydrive-nodejs-starter",
+  "name": "font-app",
   "private": true,
   "version": "1.0.0",
   "description": "",
@@ -8,7 +8,7 @@
     "start": "node index"
   },
   "keywords": [],
-  "author": "Tiny Technologies Inc",
+  "author": "Johanna Fagerås",
   "license": "MIT",
   "dependencies": {
     "express": "^4.16.4",

@@ -1,10 +1,27 @@
 tinymce.init({
-  selector: 'textarea',
-  plugins: 'tinydrive code image link media',
-  toolbar: 'insertfile | undo redo | link image media | code',
-  height: 600,
-  // Tiny Drive specific options for more details on what these does check https://www.tiny.cloud/docs/plugins/drive/
   tinydrive_token_provider: '/jwt',
-  // tinydrive_upload_path: '/uploads',
-  // tinydrive_max_image_dimension: 1024
+  tinydrive_dropbox_app_key: 'ihkijjskgoe4t5e',
+  branding: false,
+  selector: 'textarea#fontapp',
+  skin: 'borderless',
+  icons: 'small',
+  content_style: "body { font-family: 'iA Writer Serif'; font-size: 18pt; }",
+  font_css: '/stylesheets/style.css',
+  font_family_formats: 'iA Writer Serif=ia writer serif',
+  font_size_formats: '6pt 8pt 10pt 12pt 14pt 16pt 18pt 24pt 36pt 48pt',
+  plugins: 'preview powerpaste casechange importcss tinydrive searchreplace autolink autosave save directionality advcode visualblocks visualchars fullscreen image link media mediaembed template codesample table charmap pagebreak nonbreaking anchor tableofcontents insertdatetime advlist lists checklist wordcount tinymcespellchecker a11ychecker editimage formatpainter permanentpen pageembed charmap mentions quickbars linkchecker emoticons advtable export footnotes mergetags autocorrect',
+  toolbar: 'insertfile | undo redo | bold italic underline | fontfamily fontsize',
+  statusbar: false,
+  menubar: 'file edit insert view format tools table',
+  menu: {
+    file: { title: 'File', items: 'newdocument restoredraft | preview | save export print | deleteallconversations' },
+    edit: { title: 'Edit', items: 'undo redo | cut copy paste pastetext | selectall | searchreplace' },
+    view: { title: 'View', items: 'code | visualaid visualchars visualblocks | spellchecker | preview fullscreen | showcomments' },
+    insert: { title: 'Insert', items: 'image link media addcomment pageembed template codesample inserttable | charmap emoticons hr | pagebreak nonbreaking anchor tableofcontents | insertdatetime' },
+    format: { title: 'Format', items: 'bold italic underline strikethrough superscript subscript codeformat | styles blocks fontfamily fontsize align lineheight | forecolor backcolor | language | removeformat' },
+    tools: { title: 'Tools', items: 'spellchecker spellcheckerlanguage | a11ycheck code wordcount' },
+    table: { title: 'Table', items: 'inserttable | cell row column | advtablesort | tableprops deletetable' }
+  },
+  quickbars_insert_toolbar: false,
+  quickbars_image_toolbar: 'alignleft aligncenter alignright',
 });
