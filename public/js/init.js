@@ -34,6 +34,7 @@ tinymce.init({
     '#FFDEEB', 'White Pink',
     '#E5DBFF', 'White Purple',
     '#D0EBFF', 'White Blue',
+    '#F1F3F5', 'White Gray',
     
     '#8CE99A', 'Pale Green',
     '#FFE066', 'Pale Amber',
@@ -41,6 +42,7 @@ tinymce.init({
     '#FAA2C1', 'Pale Pink',
     '#B197FC', 'Pale Purple',
     '#74C0FC', 'Pale Blue',
+    '#CED4DA', 'Pale Gray',
     
     '#51CF66', 'Light Green',
     '#FCC419', 'Light Amber',
@@ -48,6 +50,7 @@ tinymce.init({
     '#F06595', 'Light Pink',
     '#845EF7', 'Light Purple',
     '#339AF0', 'Light Blue',
+    '#ADB5BD', 'Light Gray',
 
     '#37B24D', 'Medium Green',
     '#F59F00', 'Medium Amber',
@@ -55,6 +58,7 @@ tinymce.init({
     '#D6336C', 'Medium Pink',
     '#7048E8', 'Medium Purple',
     '#1C7ED6', 'Medium Blue',
+    '#868E96', 'Medium Gray',
 
     '#2B8A3E', 'Dark Green',
     '#E67700', 'Dark Amber',
@@ -62,14 +66,9 @@ tinymce.init({
     '#A61E4D', 'Dark Pink',
     '#5F3DC4', 'Dark Purple',
     '#1864AB', 'Dark Blue',
-
-    '#F1F3F5', 'White Gray',
-    '#CED4DA', 'Pale Gray',
-    '#ADB5BD', 'Light Gray',
-    '#868E96', 'Medium Gray',
     '#495057', 'Dark Gray',
-    '#212529', 'Black Gray',
 
+    '#212529', 'Black Gray',
     '#000000', 'Black',
     '#ffffff', 'White'
   ],
