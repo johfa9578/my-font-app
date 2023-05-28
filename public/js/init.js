@@ -1,6 +1,8 @@
 tinymce.init({
   tinydrive_token_provider: '/jwt',
   tinydrive_dropbox_app_key: 'ihkijjskgoe4t5e',
+  tinydrive_google_drive_key: 'AIzaSyDJ1MEPUkvBAsx8LX8tCFIo1-nAQlTKV20',
+  tinydrive_google_drive_client_id: '541290188658-eidbfq75d4b5m3cp1ufe98kljp0ln2ku.apps.googleusercontent.com',
   branding: false,
   selector: 'textarea#fontapp',
   skin: 'borderless',
