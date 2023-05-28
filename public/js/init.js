@@ -42,7 +42,7 @@ tinymce.init({
     '#FAA2C1', 'Pale Pink',
     '#B197FC', 'Pale Purple',
     '#74C0FC', 'Pale Blue',
-    '#CED4DA', 'Pale Gray',
+    '#DEE2E6', 'Pale Gray',
     
     '#51CF66', 'Light Green',
     '#FCC419', 'Light Amber',
@@ -58,7 +58,7 @@ tinymce.init({
     '#D6336C', 'Medium Pink',
     '#7048E8', 'Medium Purple',
     '#1C7ED6', 'Medium Blue',
-    '#868E96', 'Medium Gray',
+    '#495057', 'Medium Gray',
 
     '#2B8A3E', 'Dark Green',
     '#E67700', 'Dark Amber',
@@ -66,10 +66,10 @@ tinymce.init({
     '#A61E4D', 'Dark Pink',
     '#5F3DC4', 'Dark Purple',
     '#1864AB', 'Dark Blue',
-    '#495057', 'Dark Gray',
+    '#212529', 'Dark Gray',
 
-    '#212529', 'Black Gray',
     '#000000', 'Black',
+    '#000000', 'White',
     '#ffffff', 'White'
   ],
 });
