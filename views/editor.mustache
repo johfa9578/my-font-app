@@ -6,18 +6,20 @@
   <title>The Editor</title>
   <link rel="stylesheet" href="/css/bootstrap.css">
   <link rel="stylesheet" href="/css/style.css">
+  <script src="https://heyjohfa.site/tinymce/tinymce.min.js" referrerpolicy="origin"></script>
+  <script src="https://cdn.tiny.cloud/1/{{apiKey}}/tinymce/6/tinymce.min.js" referrerpolicy="origin"></script>
 </head>
 
 <body>
   <div class="inner-container mt-3 mb-3">
-    <h1 class="h3 mb-4">Welcome {{fullname}}!</h1>
+    <h1 class="h3 mb-4">Hi {{fullname}}!</h1>
     <textarea id="fontapp">Type Your Own Way...</textarea>
     <div class="logout-btn">
     <a class="btn btn-primary" href="/logout">Logout</a></div>
   </div>
-
-  <script src="https://cdn.tiny.cloud/1/{{apiKey}}/tinymce/6/tinymce.min.js" referrerpolicy="origin"></script>
+  
   <script src="/js/bootstrap.js"></script>
   <script src="/js/init.js"></script>
 </body>
+
 </html>
