@@ -69,7 +69,7 @@ tinymce.init({
     '#212529', 'Dark Gray',
 
     '#000000', 'Black',
-    '#000000', 'White',
+    '#ffffff', 'White',
     '#ffffff', 'White'
   ],
 });
