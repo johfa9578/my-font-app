@@ -28,21 +28,27 @@ tinymce.init({
   quickbars_insert_toolbar: false,
   quickbars_image_toolbar: 'alignleft aligncenter alignright',
   color_map: [
+    '#8CE99A', 'Pale Green',
+    '#FFE066', 'Pale Yellow',
+    '#FAA2C1', 'Pale Pink',
+    '#B197FC', 'Pale Purple',
+    '#74C0FC', 'Pale Blue',
+    
     '#51CF66', 'Light Green',
     '#FCC419', 'Light Yellow',
-    '#F06595', 'Light Red',
+    '#F06595', 'Light Pink',
     '#845EF7', 'Light Purple',
     '#339AF0', 'Light Blue',
 
     '#37B24D', 'Green',
     '#F59F00', 'Yellow',
-    '#D6336C', 'Red',
+    '#D6336C', 'Pink',
     '#7048E8', 'Purple',
     '#1C7ED6', 'Blue',
 
     '#2B8A3E', 'Dark Turquoise',
     '#E67700', 'Orange',
-    '#A61E4D', 'Dark Red',
+    '#A61E4D', 'Dark Pink',
     '#5F3DC4', 'Dark Purple',
     '#1864AB', 'Dark Blue',
 
