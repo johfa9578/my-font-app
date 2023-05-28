@@ -5,7 +5,7 @@ tinymce.init({
   selector: 'textarea#fontapp',
   skin: 'borderless',
   icons: 'small',
-  content_style: "body { font-family: 'iA Writer Serif'; font-size: 18pt; }",
+  content_style: "body { font-family: 'iA Writer Serif';font-size: 18pt; }",
   font_css: '/css/fonts.css',
   font_family_formats: 'iA Writer Serif=ia writer serif;Elisabeth Serif=elisabeth serif;Elisabeth Serif Swash=elisabeth serif swash',
   font_size_formats: '6pt 8pt 10pt 12pt 14pt 16pt 18pt 24pt 36pt 48pt',
