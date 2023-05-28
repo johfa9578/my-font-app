@@ -26,7 +26,7 @@ const setupExpress = (port) => {
 
   setupRoutes(app);
 
-  app.listen(port, () => console.log(`Tiny Drive starter project is now available at: http://localhost:${port}/`));  
+  app.listen(port, () => console.log(`Your editor is now live at: http://localhost:${port}/`));  
 };
 
 const setupRoutes = (app) => {
@@ -36,7 +36,7 @@ const setupRoutes = (app) => {
 
   app.get('/editor', (req, res) => {
     if (req.session.user) {
-      res.render('editor', { apiKey: config.apiKey, fullname: req.session.user.fullname });
+      res.render('editor', { apiKey: config.apiKey, firstname: req.session.user.firstname });
     } else {
       res.redirect('/');
     }
