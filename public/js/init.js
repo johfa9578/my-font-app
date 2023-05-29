@@ -13,7 +13,7 @@ tinymce.init({
   font_family_formats: 'iA Writer Duo=ia writer duo;iA Writer Mono=ia writer mono;iA Writer Quattro=ia writer quattro;iA Writer Sans=ia writer sans;iA Writer Serif=ia writer serif',
   font_size_formats: '6pt 8pt 10pt 12pt 14pt 16pt 18pt 24pt 36pt 48pt',
   plugins: 'preview powerpaste casechange importcss tinydrive searchreplace autolink autosave save directionality advcode visualblocks visualchars fullscreen image link media mediaembed template codesample table charmap pagebreak nonbreaking anchor tableofcontents insertdatetime advlist lists checklist wordcount tinymcespellchecker a11ychecker editimage formatpainter permanentpen pageembed charmap mentions quickbars linkchecker emoticons advtable export footnotes mergetags autocorrect',
-  toolbar: 'insertfile | undo redo | bold italic underline | fontfamily | fontsize | code fullscreen',
+  toolbar: 'fontfamily fontsize bold italic underline | code fullscreen insertfile',
   toolbar_sticky: true,
   statusbar: false,
   menubar: 'file edit insert view format tools table',
