@@ -21,3 +21,7 @@ body h1 {
 .logout-btn {
   text-align: right !important;
 }
+
+.tox .tox-toolbar__group:last-child {
+  margin-left: auto !important;
+}
