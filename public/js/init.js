@@ -14,6 +14,7 @@ tinymce.init({
   font_size_formats: '6pt 8pt 10pt 12pt 14pt 16pt 18pt 24pt 36pt 48pt',
   plugins: 'preview powerpaste casechange importcss tinydrive searchreplace autolink autosave save directionality advcode visualblocks visualchars fullscreen image link media mediaembed template codesample table charmap pagebreak nonbreaking anchor tableofcontents insertdatetime advlist lists checklist wordcount tinymcespellchecker a11ychecker editimage formatpainter permanentpen pageembed charmap mentions quickbars linkchecker emoticons advtable export footnotes mergetags autocorrect',
   toolbar: 'insertfile | undo redo | bold italic underline | fontfamily fontsize',
+  toolbar_sticky: true,
   statusbar: false,
   menubar: 'file edit insert view format tools table',
   menu: {
