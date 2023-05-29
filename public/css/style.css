@@ -1,6 +1,10 @@
-body h1 {
+h1 {
   text-transform: none !important;
   font-family: 'iA Writer Serif' !important;
+}
+
+.h5 {
+  font-weight: normal !important;
 }
 
 .inner-container {
@@ -20,6 +24,8 @@ body h1 {
 
 .logout-btn {
   text-align: right !important;
+  font-family: 'iA Writer Serif' !important;
+  text-transform: none !important;
 }
 
 .tox .tox-toolbar__group:last-child {
