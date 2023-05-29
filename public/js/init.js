@@ -8,7 +8,7 @@ tinymce.init({
   skin: 'naked',
   icons: 'small',
   tinydrive_skin: 'oxide',
-  content_style: "body { font-family: 'iA Writer Serif';font-size: 14pt; }",
+  content_style: "body { font-family: 'iA Writer Serif';font-size: 12pt; }",
   font_css: ['/css/fonts.css'],
   font_family_formats: 'iA Writer Duo=ia writer duo;iA Writer Mono=ia writer mono;iA Writer Quattro=ia writer quattro;iA Writer Sans=ia writer sans;iA Writer Serif=ia writer serif',
   font_size_formats: '6pt 8pt 10pt 12pt 14pt 16pt 18pt 24pt 36pt 48pt',
